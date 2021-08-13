@@ -1,12 +1,13 @@
 # Dsn_AI_Bootcamp_qualification
 
-This repository contains the 160th position solution for the Pre-Bootcamp hackathon organised by Data Science Nigeria (DSN) on Zindi, from 8 August—22 August, 2020. (link to hackathon: https://zindi.africa/hackathons/dsn-pre-bootcamp-hackathon-expresso-churn-prediction-challenge).
+This repository contains the 160th position solution for the Pre-Bootcamp hackathon organised by Data Science Nigeria (DSN) on Zindi. (link to hackathon: https://zindi.africa/hackathons/dsn-ai-bootcamp-qualification-hackathon).
 
 Aim:
-To help Expresso to better serve their customers by understanding which customers are at risk of leaving.
+Kowope Mart is a Nigerian-based retail company with a vision to provide quality goods, education and automobile services to its customers at affordable price and reduce if not eradicate charges on card payments and increase customer satisfaction with credit rewards that can be used within the Mall.
 
 Objective:
-To develop a predictive model that determines the likelihood for a customer to churn - to stop purchasing airtime and data from Expresso
+To develop a predictive model that determines the likelihood to better predict customers who are likely to default or not.
+
 
 Packages
 Scikit learn Pandas Numpy Matplotlib Catboost Lightgbm Seaborn
